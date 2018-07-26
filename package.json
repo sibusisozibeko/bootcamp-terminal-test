@@ -1,7 +1,6 @@
 {
   "name": "bootcamp-terminal-tests",
   "version": "1.0.0",
-  "description": "",
   "main": "countAllFromTown.js",
   "directories": {
     "test": "test"
@@ -14,5 +13,15 @@
     "test": "mocha"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sibusisozibeko/bootcamp-terminal-test.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/sibusisozibeko/bootcamp-terminal-test/issues"
+  },
+  "homepage": "https://github.com/sibusisozibeko/bootcamp-terminal-test#readme",
+  "description": ""
 }
